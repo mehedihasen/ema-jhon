@@ -1,0 +1,15 @@
+.product-all{
+    display: flex;
+    margin-left: 80px;
+
+
+}
+.cart{
+    width: 30%;
+    color: red;
+    padding: 5px;
+}
+.continer-mine{
+        border-right: 1px solid gray;
+        border-bottom: 1px solid gray ;
+}

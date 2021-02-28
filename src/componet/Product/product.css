@@ -1,0 +1,21 @@
+.product{
+    display: flex;
+    padding: 5px;
+    margin: 5px;
+    
+
+}
+.continer-text{
+    padding-left: 20px;
+
+}
+.continer-text h3{
+    color: blue;
+}
+.continer-text button{
+    background-color: goldenrod;
+    border: 1px solid rgb(151, 145, 145);
+    font-size: 15px;
+    border-radius: 3px;
+    padding: 3px 30px;
+}
